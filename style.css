@@ -7,11 +7,10 @@ section{
     width: 100%;
 }
 .banner{
-    width: 40%;
+    width: 50%;
     float: left;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     align-items: center;
-    margin: 20px;
     color: steelblue;
 }
 
@@ -32,4 +31,7 @@ img{
 #nme{
     font-size: 1.2em;
     color: aquamarine;
+}
+.another{
+    color: antiquewhite;
 }
