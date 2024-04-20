@@ -1,0 +1,35 @@
+
+h1{
+    color: cyan;
+    font-size: 2.5em;
+}
+section{
+    width: 100%;
+}
+.banner{
+    width: 40%;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    margin: 20px;
+    color: steelblue;
+}
+
+img{
+    width: 220px;
+    border-radius: 50px;
+    
+}
+
+#btn{
+    background-color: royalblue;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 500;
+}
+#nme{
+    font-size: 1.2em;
+    color: aquamarine;
+}
